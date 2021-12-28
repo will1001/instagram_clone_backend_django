@@ -1,1 +1,1 @@
-# django_api
+# django_instagram_clone
